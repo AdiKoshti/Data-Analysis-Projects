@@ -1,12 +1,12 @@
-# Data Visualization Portfolio
-This repository showcases my data visualization projects, demonstrating my skills in data analysis, visualization, and storytelling. The projects cover a range of topics, including:
+# Data Analysis Projects
+This repository showcases my data analysis projects, demonstrating my skills in data analysis, visualization, and storytelling. The projects cover a range of topics, including:
 * Exploratory Data Analysis (data cleaning, preprocessing, and visualization)
 * Data Storytelling (communicating insights and findings through interactive dashboards)
 * Data Science (machine learning, statistical modeling, and data mining)
 
 #### Each project includes:
 * A brief description of the problem and approach
-* Code in Python, using popular libraries like Matplotlib, Seaborn, Plotly, and Bokeh
+* Code in Python, using popular libraries like Matplotlib, Seaborn, Plotly
 * Results, including interactive visualizations and insights
 
 #### My goal is to share my work, provide context, and demonstrate my ability to:
